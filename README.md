@@ -184,8 +184,8 @@ Optional arguments:
 
 | Argument | Description |
 |---|---|
-| `--suff TEXT` | Suffix added to output filenames |
 | `-l FLOAT` | X-ray wavelength in √Ö (default: `0.56`) |
+| `--suff TEXT` | Suffix added to output filenames |
 
 Example:
 
@@ -218,4 +218,3 @@ Patterns are expected to already be expressed in reciprocal-space Q units (`nm‚Å
 - All diffraction patterns are normalized to an area-under-the-curve (`AUC`) of `1000`.
 - Training uses synthetic Poisson noise augmentation to improve robustness against experimental noise.
 - The prediction pipeline automatically handles patterns with narrower Q-ranges via edge padding and interpolation.
-````
