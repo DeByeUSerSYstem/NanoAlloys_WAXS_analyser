@@ -20,7 +20,7 @@ authors:
     email: antonietta.guagliardi@cnr.it
     affiliation: National Research Council - Crystallography Institute
     orcid: 'https://orcid.org/0000-0001-6390-2114'
-doi: tbd
+doi: 'tbd'
 repository-code: 'https://github.com/DeByeUSerSYstem/NanoAlloys_WAXS_analyser'
 abstract: >-
   Deep Learning model for the automated extraction of structural information
