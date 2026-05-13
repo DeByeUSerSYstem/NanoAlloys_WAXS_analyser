@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+title: 'NanoAlloys_WAXS_analyser'
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Lucia
+    family-names: Allara
+    email: lallara@uninsubria.it
+    affiliation: University of Insubria (IT)
+    orcid: 'https://orcid.org/0009-0004-1832-094X'
+  - given-names: Federica
+    family-names: Bertolotti
+    email: federica.bertolotti@uninsubria.it
+    affiliation: University of Insubria (IT)
+    orcid: 'https://orcid.org/0000-0002-6001-9040'
+  - given-names: Antonietta
+    family-names: Guagliardi
+    email: antonietta.guagliardi@cnr.it
+    affiliation: National Research Council - Crystallography Institute
+    orcid: 'https://orcid.org/0000-0001-6390-2114'
+doi: '10.1038/s41524-024-01241-6'
+repository-code: 'https://github.com/DeByeUSerSYstem/NanoAlloys_WAXS_analyser'
+abstract: >-
+  Deep Learning model for the automated extraction of structural information
+  of Ag-Co nanoscale bimetallic clusters from
+  Wide-Angle X-ray (Total) Scattering data.
+keywords:
+  - nanoalloys
+  - deep learning
+  - configuration
+  - size
+  - stoichiometry
+license: GPL-3.0
+version: '1.0'
+date-released: '2026-05-13'
