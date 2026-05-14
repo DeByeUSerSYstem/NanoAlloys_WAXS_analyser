@@ -139,7 +139,7 @@ if not os.path.exists(result_dir):
 
 # NN parameters
 batch_size = 32
-patience = 30
+patience = 5
 epochs = 500
 lr = 0.0001
 
